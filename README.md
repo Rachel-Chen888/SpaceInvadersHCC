@@ -1,4 +1,4 @@
-ORIGINAL: https://github.com/Raghavbanka/HER-CODE-CAMP 
+#ORIGINAL: https://github.com/Raghavbanka/HER-CODE-CAMP 
 
                       WELCOME TO THE SPACE INVADERS GAME 
           (created by Rachel Luo, Shahad Osman, and our mentor Raghav) 
