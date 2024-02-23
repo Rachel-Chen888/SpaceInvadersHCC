@@ -1,4 +1,5 @@
 ORIGINAL: https://github.com/Raghavbanka/HER-CODE-CAMP 
+
                       WELCOME TO THE SPACE INVADERS GAME 
           (created by Rachel Luo, Shahad Osman, and our mentor Raghav) 
 Used pygame to add music and many other functions, used the Turtle library to create enemies, and much more! 
